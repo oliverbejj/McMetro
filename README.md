@@ -1,2 +1,2 @@
 # McMetro
-Part of COMP 251 Final assignment F24
+Hypothetical McGill metro system graph flow optimization
